@@ -43,6 +43,10 @@ body {
 	padding-top: 20px;
 }
 
+.btn-default {
+	background-color: #4aaaa5;
+	color: #ffffff;
+}
 
 @media screen and (max-width: 980px) {
 	.panel.panel-default {
